@@ -1,0 +1,29 @@
+# SCAPMS data file v1
+PATIENT,General,P0001,Adaeze Okafor,34,08031234567,Headache and fever,
+PATIENT,Emergency,P0002,Chinedu Eze,52,chinedu.eze@mail.com,4,Chest pain
+PATIENT,Follow-Up,P0003,Fatima Bello,29,08098765432,2026-10-12,Adeyemi
+PATIENT,General,P0004,Tunde Bakare,41,07011223344,Back pain,
+PATIENT,General,P0005,Ngozi Umeh,23,08055667788,Routine check-up,
+PATIENT,Emergency,P0006,Amina Yusuf,8,08122334455,3,High fever
+PATIENT,Follow-Up,P0007,Emeka Nwosu,60,08066778899,2026-09-28,Adeyemi
+PATIENT,General,P0008,Blessing Ojo,19,blessing.ojo@mail.com,Skin rash,
+PATIENT,Follow-Up,P0009,Ibrahim Musa,45,08077889900,2026-10-30,Okonkwo
+PATIENT,General,P0010,Grace Eze,67,08033445566,Diabetes screening,
+PATIENT,Emergency,P0011,Samuel Adebayo,31,08099001122,2,Sprained ankle
+PATIENT,General,P0012,Halima Danjuma,38,08044556677,Eye strain,
+APPOINTMENT,1,P0003,2026-10-12,09:00,Post-malaria review,Completed,Follow-up
+APPOINTMENT,2,P0003,2026-10-26,10:30,Blood test results,Completed,Follow-up
+APPOINTMENT,3,P0007,2026-09-28,11:00,Blood pressure check,Completed,Follow-up
+APPOINTMENT,4,P0007,2026-10-15,11:30,BP medication review,Completed,Follow-up
+APPOINTMENT,5,P0007,2026-10-29,11:30,BP follow-up,Completed,Follow-up
+APPOINTMENT,6,P0001,2026-11-02,14:00,Fever consultation,Completed,Normal
+APPOINTMENT,7,P0002,2026-11-03,08:15,Chest pain assessment,Completed,URGENT
+APPOINTMENT,8,P0004,2026-11-04,13:00,Back pain,Cancelled,Normal
+APPOINTMENT,9,P0001,2026-11-09,15:00,Review of lab tests,Scheduled,Normal
+APPOINTMENT,10,P0009,2026-11-09,16:30,Wound dressing check,Scheduled,Follow-up
+APPOINTMENT,11,P0005,2026-11-10,09:30,Routine check-up,Scheduled,Normal
+APPOINTMENT,12,P0003,2026-11-12,10:00,Final review,Scheduled,Follow-up
+APPOINTMENT,13,P0011,2026-11-09,17:15,Ankle X-ray review,Scheduled,URGENT
+APPOINTMENT,14,P0010,2026-11-11,12:00,Diabetes screening,Scheduled,Normal
+APPOINTMENT,15,P0008,2026-11-05,10:00,Skin rash,Completed,Normal
+APPOINTMENT,16,P0012,2026-11-06,09:00,Eye strain,Cancelled,Normal

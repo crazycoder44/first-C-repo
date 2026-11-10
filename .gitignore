@@ -1,0 +1,16 @@
+# Build output (recreated by build.bat; large and machine-specific)
+build/
+cmake-build-*/
+
+# CLion / VS Code settings
+.idea/
+.vscode/
+
+# Course documents used to create the project (not part of the code)
+Computer Programming Lab Assessment 2
+Computer Programming Lab Assessment 2.pdf
+COS 202 - Computer Programming II - Lab Manual.pdf
+
+# Logs and temporary files
+*.log
+tmp_check/
